@@ -1,7 +1,7 @@
 # 1918 - 후위 표기식
 
 # isalpha() => 알파벳인지 확인
-# isdigit) => 숫자인지 확인
+# isdigit() => 숫자인지 확인
 # isalnum() => 알파벳 또는 숫자인지 확인
 
 input = input()
